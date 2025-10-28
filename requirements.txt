@@ -1,0 +1,9 @@
+streamlit
+requests
+Pillow
+litellm
+folium
+streamlit-folium
+shapely
+geopy
+
